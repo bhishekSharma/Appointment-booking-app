@@ -1,0 +1,6 @@
+{
+  "name": "MediCare",
+  "description": "Hospital Appointment Booking app with User and Admin access, doctor search, WhatsApp notifications, and appointment management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
